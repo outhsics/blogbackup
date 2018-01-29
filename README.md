@@ -1,2 +1,0 @@
-# outhsics.github.io
-blog
